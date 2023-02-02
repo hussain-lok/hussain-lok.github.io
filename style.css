@@ -1,0 +1,53 @@
+
+title {
+    
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #FBFCFF;
+    align-items: center;
+}
+
+.title {
+    font-size: 400%;
+    font-family: "Roboto", sans-serif;
+    color: #363230;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5%;
+}
+.header {
+}
+
+#header_img {
+    height: 8%;
+    width: 8%;
+    float: left;
+    padding-left: 5%
+}
+
+
+
+.nav {
+    overflow: hidden;
+    background-color: #363230;
+}
+.nav a {
+    color: #FBFCFF;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 1% 1.5%;
+    font-size: 125%;
+}
+.nav a:hover {
+    background-color: #D0CCD0;
+    color: #363230;
+}
+.nav a.active {
+    background-color: #274156;
+    color: #FBFCFF;
+}
+

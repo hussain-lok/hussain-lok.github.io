@@ -1,0 +1,37 @@
+Grass Texture/PNG: "grass" (https://opengameart.org/content/grass-1) by stereoscopic is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Net Texture/PNG: "soccerGoal" (https://opengameart.org/content/soccergoal) by almaPerdida is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Wall Texture/PNG: "Seamless Wall" (https://opengameart.org/content/seamless-wall) by GrumpyDiamond is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Ball Hitting Court Sound: "Golf ball - single bounce - 221098_AshtiHari_SD100_Term4.wav" (https://freesound.org/people/221098HariPotter/sounds/655635/) by 221098HariPotter is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Menu Background Music: "Future Bounce Loop 125 BPM" (https://freesound.org/people/Cloud-10/sounds/658811/) by Cloud-10 is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Play Again Single Player Music: "Background Music - Rock Loop (128 BPM)" (https://freesound.org/people/Cloud-10/sounds/723366/) by Cloud-10 is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Play Again MultiPlayer Music: "Calabria Saxophone Melody Loop - No Reverb.wav" (https://freesound.org/people/Cloud-10/sounds/661668/) by Cloud-10 is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Ball Hitting Racket Sound: "tennisball.wav" (https://freesound.org/people/gt.torre/sounds/470928/) by gt.torre is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Racket Swing Sound: "Whoosh" (https://freesound.org/people/Natty23/sounds/349182/) by Natty23 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Crowd Cheering Sound: "Crowd Cheer 5" (https://freesound.org/people/Krizin/sounds/651646/) by Krizin is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Crowd Boo: "boo 01.wav" (https://freesound.org/people/tim.kahn/sounds/336997/) by Tim Kahn (tim.kahn) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Lose Points/Game Over Sound: "incorrect" (https://freesound.org/people/ertfelda/sounds/243700/) by ertfelda is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Extra Points Sound: "correct" (https://freesound.org/people/ertfelda/sounds/243701/) by ertfelda is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Power-Up Sound: "Idea.wav" (https://freesound.org/people/FxKid2/sounds/367627/) by FxKid2 is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Spin Power-Up Objects: "Direction Arrow" (https://skfb.ly/ozHGW) by Alihan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Smash Power-Up Object: "Flame" (https://skfb.ly/oCyXy) by Özcan Ulaş is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+SloMo Power-Up Object: "Classic wall/school Clock, black and white." (https://skfb.ly/oO6JQ) by JaaLyy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Super Speed Power-Up Object: "Lightning Bolt Icons" (https://skfb.ly/oBZxo) by leesokleng is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Settings Icon PNG: "settings" (https://iconduck.com/icons/293815/settings) by Basedash is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
